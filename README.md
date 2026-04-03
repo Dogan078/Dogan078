@@ -60,14 +60,6 @@ Bu projede ana sayfadan yan pencereyi açıp ordan tüm ilaçlarınızı görün
 * 📱 **Mobil Uygulama:** Cep telefonları için uygulama geliştirme sürecine başladım!
 * 🔓 **Açık Kaynak:** Yakında bu projenin kaynak kodlarını burada, GitHub'da yayınlayacağım. Takipte kalın!
 
----
-
-### 📊 GitHub İstatistiklerim
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dogan078&show_icons=true&theme=radical&locale=tr" height="180" alt="github stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dogan078&layout=compact&theme=radical&locale=tr" height="180" alt="top languages" />
-</div>
 
 ---
 
